@@ -1,0 +1,36 @@
+{
+    "Success": true,
+    "Message": "",
+    "Data": [
+        {
+            "Id": 510,
+            "Name": "Watch Stream",
+            "Description": "Per 15 Mins",
+            "SiteId": 1998,
+            "StartDate": "2022-07-01T00:00:00",
+            "EndDate": "2024-07-31T23:59:59",
+            "StartTime": null,
+            "EndTime": null,
+            "Enabled": true,
+            "DaysEnabled": null,
+            "PromotionOfferValue": 10.0,
+            "MISCode": "",
+            "PromotionTypeId": 1,
+            "VoucherProfileId": null,
+            "PromotionOfferType": "Points",
+            "ActivityCategoryName": "Watch",
+            "ActivityCategoryTypeName": null,
+            "PromotionHtmlContent": "",
+            "PromotionItem": [],
+            "ActivityReference": "Stream",
+            "MaxUsagePerMember": 3,
+            "RemainingUsagePerMember": 3,
+            "ActivityConfiguration": null,
+            "ImageUrl": "https://snipp.blob.core.windows.net/images/backoffice/510_e95f8937-829a-46c3-ae24-98a5a111fb38.png"
+        }
+    ],
+    "MessageType": ""
+	"profile": {
+		"name": "typicode"
+	}
+}
