@@ -29,8 +29,8 @@
             "ImageUrl": "https://snipp.blob.core.windows.net/images/backoffice/510_e95f8937-829a-46c3-ae24-98a5a111fb38.png"
         }
     ],
-    "MessageType": ""
-	"profile": {
-		"name": "typicode"
-	}
+    "MessageType": "",
+    "profile": {
+        "name": "typicode"
+    }
 }
